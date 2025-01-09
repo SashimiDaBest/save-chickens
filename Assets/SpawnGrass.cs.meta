@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 837c27a28e9114fbe84eef158d131888
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - santa: {instanceID: 0}
+  - snow: {fileID: 7896230655979529749, guid: c478ee32ae3ef40d3b323b3066aae38e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

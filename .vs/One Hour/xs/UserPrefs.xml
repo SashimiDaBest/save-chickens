@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E473588D-6BF5-8532-7A2A-3E4CC8729FFD}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bcd8c6fb-f2e3-40ab-b03e-5e4bb1d1daff" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SceneMover.cs">
+    <Files>
+      <File FileName="Assets/Runner.cs" Line="86" Column="88" />
+      <File FileName="Assets/ChildSpawn.cs" />
+      <File FileName="Assets/HitDetector.cs" />
+      <File FileName="Assets/CloudSpawn.cs" />
+      <File FileName="Assets/Movement.cs" />
+      <File FileName="Assets/TestUI.cs" />
+      <File FileName="Assets/uiManager.cs" />
+      <File FileName="Assets/SceneMover.cs" Line="1" Column="1" />
+      <File FileName="Assets/MakePoly.cs" />
+      <File FileName="Assets/SpawnGrass.cs" />
+      <File FileName="Assets/CamManage.cs" />
+      <File FileName="Assets/Imported Prefabs/Meshtint Free Santa Claus/Read me.txt" />
+      <File FileName="Assets/Imported Prefabs/Meshtint Free Santa Claus/www.meshtint.com.txt" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="One Hour" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Imported Prefabs" expanded="True">
+                <Node name="Meshtint Free Santa Claus" expanded="True" />
+              </Node>
+              <Node name="SceneMover.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8D35C069-D0E4-4733-B3C6-C38EF0F46B1C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
